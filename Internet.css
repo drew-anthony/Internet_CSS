@@ -1,0 +1,48 @@
+#container{
+    width: 100%;
+    height: auto;
+    background-color: white;
+}
+#h1{
+    font-size: 70%;
+}
+img{
+    width: 1.5em;
+    height: 1.5em;
+}
+#h2{
+    height: 10em;
+    width: auto;
+    background-color: rgb(4, 0, 53);
+    font-size: .67em;
+    color: white;    
+}
+#resource{
+    height: 30%;
+    width: 15%;
+    background-color: silver;
+    display: inline-block;
+}
+#button_id{
+    height:50%;
+    width: 90%; 
+}
+#button2_id{
+    height: 50%;
+    width: 90%;
+}
+#contact_box{
+    width: 84%;
+    display: inline-block;
+    vertical-align: top;
+}
+#dns{
+    vertical-align: top;
+    display: inline-block;
+}
+#contact{
+    margin-left: 50%;
+    vertical-align: top;
+    display: inline-block;
+}
+
