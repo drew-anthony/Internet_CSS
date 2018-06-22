@@ -17,11 +17,21 @@ img{
     font-size: .67em;
     color: white;    
 }
-#resource{
+#left_bin{
     height: 30%;
     width: 15%;
     background-color: silver;
     display: inline-block;
+}
+.divider{}
+#reinvent{
+    background-image: url('ad_background.png');
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#ninja{
+    height: 50%;
+    width: 50%;
 }
 #button_id{
     height:50%;
@@ -45,4 +55,3 @@ img{
     vertical-align: top;
     display: inline-block;
 }
-
